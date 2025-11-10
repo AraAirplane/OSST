@@ -1,0 +1,1366 @@
+﻿
+
+Name               : svchost
+Id                 : 2500
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2492
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2484
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2640
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2620
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2612
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2124
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2020
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1964
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2440
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2432
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2160
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3176
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3108
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3024
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3548
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3332
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3188
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2748
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2672
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2668
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3016
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2880
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 2792
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1936
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : service_update
+Id                 : 5396
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : service_update
+Id                 : 5072
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : SecurityHealthService
+Id                 : 4112
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : spoolsv
+Id                 : 3760
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : smss
+Id                 : 520
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : services
+Id                 : 540
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : Registry
+Id                 : 136
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : QcomWlanSrvx64
+Id                 : 4804
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : PresentationFontCache
+Id                 : 4364
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : SearchProtocolHost
+Id                 : 13672
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : SearchIndexer
+Id                 : 10228
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : RstMwService
+Id                 : 4820
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1736
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1728
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1608
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1892
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1860
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1748
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1268
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1076
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 788
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1588
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1580
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 1332
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3564
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 12104
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 12084
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 11744
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 12988
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 12828
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 12728
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8736
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8592
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8564
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 10956
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 9512
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8908
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : winws
+Id                 : 5300
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : winlogon
+Id                 : 1008
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : wininit
+Id                 : 908
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : YandexTelemostUpdateService
+Id                 : 5216
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : WUDFHost
+Id                 : 1104
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : WMIRegistrationService
+Id                 : 4972
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 14784
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 13380
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 13140
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : windhawk
+Id                 : 4980
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 15096
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 14948
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8272
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4288
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4180
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4048
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4328
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4304
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4296
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3792
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3676
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3632
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4040
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3932
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 3872
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 5312
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 5024
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 5016
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 8060
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 7400
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 7236
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4744
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4584
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4456
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4936
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4864
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : svchost
+Id                 : 4856
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : nidmsrv
+Id                 : 5900
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : IntelCpHeciSvc
+Id                 : 2228
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : niauth_daemon
+Id                 : 4812
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : niDiscSvc
+Id                 : 5452
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : IntelCpHDCPSvc
+Id                 : 1876
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : NisSrv
+Id                 : 12508
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : gamingservicesnet
+Id                 : 7520
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : nimdnsResponder
+Id                 : 5872
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : igfxCUIService
+Id                 : 2764
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : lsass
+Id                 : 656
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : LsaIso
+Id                 : 504
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : MpDefenderCoreService
+Id                 : 4760
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : Memory Compression
+Id                 : 2644
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : lktsrv
+Id                 : 5888
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : MsMpEng
+Id                 : 4952
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : NgcIso
+Id                 : 4316
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : lkads
+Id                 : 4988
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : jhi_service
+Id                 : 4600
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : dasHost
+Id                 : 5460
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : OneApp.IGCC.WinService
+Id                 : 4432
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : OfficeClickToRun
+Id                 : 4380
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : DolbyDAX2API
+Id                 : 3800
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : AggregatorHost
+Id                 : 8516
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : AdminService
+Id                 : 4276
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : csrss
+Id                 : 916
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : csrss
+Id                 : 808
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : nisvcloc
+Id                 : 4884
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : fontdrvhost
+Id                 : 1128
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : gamingservices
+Id                 : 7508
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : fontdrvhost
+Id                 : 1132
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : NVDisplay.Container
+Id                 : 2372
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : NVDisplay.Container
+Id                 : 3572
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : ELANFPService
+Id                 : 4356
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : dwm
+Id                 : 1416
+PriorityClass      : 
+UserProcessorTime  : 
+TotalProcessorTime : 
+
+Name               : conhost
+Id                 : 12960
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0156250
+TotalProcessorTime : 00:00:00.0312500
+
+Name               : conhost
+Id                 : 3204
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:00.0156250
+TotalProcessorTime : 00:00:00.0312500
+
+Name               : CCXProcess
+Id                 : 6076
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:00
+TotalProcessorTime : 00:00:00.0312500
+
+Name               : smartscreen
+Id                 : 12532
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0312500
+TotalProcessorTime : 00:00:00.0312500
+
+Name               : DolbyDAX2TrayIcon
+Id                 : 4684
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0625000
+TotalProcessorTime : 00:00:00.0781250
+
+Name               : browser
+Id                 : 13588
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0468750
+TotalProcessorTime : 00:00:00.0781250
+
+Name               : browser
+Id                 : 4608
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0468750
+TotalProcessorTime : 00:00:00.0937500
+
+Name               : browser
+Id                 : 1812
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:00.0312500
+TotalProcessorTime : 00:00:00.1093750
+
+Name               : browser
+Id                 : 14476
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0468750
+TotalProcessorTime : 00:00:00.1562500
+
+Name               : svchost
+Id                 : 14552
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0468750
+TotalProcessorTime : 00:00:00.1718750
+
+Name               : svchost
+Id                 : 13956
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0781250
+TotalProcessorTime : 00:00:00.1718750
+
+Name               : browser
+Id                 : 14036
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:00.1250000
+TotalProcessorTime : 00:00:00.2031250
+
+Name               : taskhostw
+Id                 : 4392
+PriorityClass      : 
+UserProcessorTime  : 00:00:00.0781250
+TotalProcessorTime : 00:00:00.2500000
+
+Name               : browser
+Id                 : 10680
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0312500
+TotalProcessorTime : 00:00:00.2968750
+
+Name               : SecurityHealthSystray
+Id                 : 3520
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1250000
+TotalProcessorTime : 00:00:00.2968750
+
+Name               : svchost
+Id                 : 7284
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1718750
+TotalProcessorTime : 00:00:00.3125000
+
+Name               : splwow64
+Id                 : 12848
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.0781250
+TotalProcessorTime : 00:00:00.3281250
+
+Name               : windhawk
+Id                 : 6568
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1875000
+TotalProcessorTime : 00:00:00.3593750
+
+Name               : svchost
+Id                 : 5064
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1562500
+TotalProcessorTime : 00:00:00.4062500
+
+Name               : AdobeIPCBroker
+Id                 : 13420
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:00.2187500
+TotalProcessorTime : 00:00:00.4531250
+
+Name               : browser
+Id                 : 14768
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1562500
+TotalProcessorTime : 00:00:00.4687500
+
+Name               : browser
+Id                 : 12072
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.1562500
+TotalProcessorTime : 00:00:00.5000000
+
+Name               : msedgewebview2
+Id                 : 10616
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2343750
+TotalProcessorTime : 00:00:00.5000000
+
+Name               : browser
+Id                 : 12404
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2031250
+TotalProcessorTime : 00:00:00.5468750
+
+Name               : browser
+Id                 : 14136
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2500000
+TotalProcessorTime : 00:00:00.5625000
+
+Name               : Widgets
+Id                 : 9392
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2968750
+TotalProcessorTime : 00:00:00.7031250
+
+Name               : ApplicationFrameHost
+Id                 : 6892
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2187500
+TotalProcessorTime : 00:00:00.7500000
+
+Name               : browser
+Id                 : 1060
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:00.5156250
+TotalProcessorTime : 00:00:00.7968750
+
+Name               : RAVBg64
+Id                 : 4788
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:00.2031250
+TotalProcessorTime : 00:00:00.8125000
+
+Name               : browser
+Id                 : 15124
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.2031250
+TotalProcessorTime : 00:00:00.8281250
+
+Name               : svchost
+Id                 : 9972
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.3281250
+TotalProcessorTime : 00:00:00.8750000
+
+Name               : browser
+Id                 : 12724
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:00.5625000
+TotalProcessorTime : 00:00:01.0156250
+
+Name               : RAVCpl64
+Id                 : 12736
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.3281250
+TotalProcessorTime : 00:00:01.1250000
+
+Name               : CrossDeviceResume
+Id                 : 8240
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.5156250
+TotalProcessorTime : 00:00:01.1718750
+
+Name               : msedgewebview2
+Id                 : 11168
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.6875000
+TotalProcessorTime : 00:00:01.2656250
+
+Name               : OpenConsole
+Id                 : 14752
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.5000000
+TotalProcessorTime : 00:00:02.0781250
+
+Name               : dllhost
+Id                 : 4576
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.7187500
+TotalProcessorTime : 00:00:01.5000000
+
+Name               : ShellHost
+Id                 : 1664
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.5937500
+TotalProcessorTime : 00:00:01.5000000
+
+Name               : svchost
+Id                 : 10176
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.6562500
+TotalProcessorTime : 00:00:01.5156250
+
+Name               : browser
+Id                 : 6112
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:00.9843750
+TotalProcessorTime : 00:00:01.8125000
+
+Name               : igfxEM
+Id                 : 492
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:00.3906250
+TotalProcessorTime : 00:00:01.8281250
+
+Name               : OneDrive.Sync.Service
+Id                 : 5816
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:01.0468750
+TotalProcessorTime : 00:00:02.1718750
+
+Name               : taskhostw
+Id                 : 1548
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:01.2187500
+TotalProcessorTime : 00:00:02.6093750
+
+Name               : DataExchangeHost
+Id                 : 11328
+PriorityClass      : AboveNormal
+UserProcessorTime  : 00:00:01.2656250
+TotalProcessorTime : 00:00:02.8281250
+
+Name               : Notepad
+Id                 : 4340
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:01.5625000
+TotalProcessorTime : 00:00:03.1718750
+
+Name               : svchost
+Id                 : 7460
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:01.5781250
+TotalProcessorTime : 00:00:03.2343750
+
+Name               : Adobe Crash Processor
+Id                 : 9348
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:01.3750000
+TotalProcessorTime : 00:00:03.8437500
+
+Name               : browser
+Id                 : 512
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:03.6875000
+TotalProcessorTime : 00:00:04.5625000
+
+Name               : AnyDesk
+Id                 : 4480
+PriorityClass      : 
+UserProcessorTime  : 00:00:01.9218750
+TotalProcessorTime : 00:00:04.8437500
+
+Name               : powershell
+Id                 : 13248
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:03.4218750
+TotalProcessorTime : 00:00:05.9218750
+
+Name               : svchost
+Id                 : 7184
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:02.6093750
+TotalProcessorTime : 00:00:05.2812500
+
+Name               : browser
+Id                 : 6888
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:04.5468750
+TotalProcessorTime : 00:00:05.5156250
+
+Name               : browser
+Id                 : 1056
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:05.4062500
+TotalProcessorTime : 00:00:06.2031250
+
+Name               : browser
+Id                 : 15172
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:04.0625000
+TotalProcessorTime : 00:00:06.2656250
+
+Name               : browser
+Id                 : 6920
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:04.7656250
+TotalProcessorTime : 00:00:06.5468750
+
+Name               : browser
+Id                 : 9952
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:06.3125000
+TotalProcessorTime : 00:00:06.8125000
+
+Name               : RAVBg64
+Id                 : 9960
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:00:01.0468750
+TotalProcessorTime : 00:00:06.9218750
+
+Name               : FileCoAuth
+Id                 : 13568
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:02.1406250
+TotalProcessorTime : 00:00:07.1250000
+
+Name               : browser
+Id                 : 2904
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:06.0312500
+TotalProcessorTime : 00:00:08.3593750
+
+Name               : nierserver
+Id                 : 1044
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:03.8593750
+TotalProcessorTime : 00:00:09.2812500
+
+Name               : msedgewebview2
+Id                 : 11100
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:05
+TotalProcessorTime : 00:00:09.2968750
+
+Name               : svchost
+Id                 : 12884
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:04.3906250
+TotalProcessorTime : 00:00:09.3593750
+
+Name               : browser
+Id                 : 3304
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:05.2812500
+TotalProcessorTime : 00:00:09.5000000
+
+Name               : RuntimeBroker
+Id                 : 10120
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:05.1718750
+TotalProcessorTime : 00:00:10.8125000
+
+Name               : msedgewebview2
+Id                 : 11092
+PriorityClass      : AboveNormal
+UserProcessorTime  : 00:00:07.7031250
+TotalProcessorTime : 00:00:11.4687500
+
+Name               : browser
+Id                 : 13172
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:09.8593750
+TotalProcessorTime : 00:00:12.0312500
+
+Name               : browser
+Id                 : 15080
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:08.3906250
+TotalProcessorTime : 00:00:12.3437500
+
+Name               : browser
+Id                 : 6904
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:10.7812500
+TotalProcessorTime : 00:00:13.6250000
+
+Name               : WindowsTerminal
+Id                 : 9104
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:07.4687500
+TotalProcessorTime : 00:00:14.1562500
+
+Name               : browser
+Id                 : 11292
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:11.4375000
+TotalProcessorTime : 00:00:14.3125000
+
+Name               : browser
+Id                 : 4352
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:11.8750000
+TotalProcessorTime : 00:00:14.4218750
+
+Name               : sihost
+Id                 : 8092
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:07.5468750
+TotalProcessorTime : 00:00:18.4062500
+
+Name               : browser
+Id                 : 14732
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:11.5625000
+TotalProcessorTime : 00:00:19.3281250
+
+Name               : browser
+Id                 : 12164
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:18.2187500
+TotalProcessorTime : 00:00:24.2968750
+
+Name               : msedgewebview2
+Id                 : 10560
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:13.7656250
+TotalProcessorTime : 00:00:25.7500000
+
+Name               : StartMenuExperienceHost
+Id                 : 9796
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:17.6093750
+TotalProcessorTime : 00:00:31.9062500
+
+Name               : svchost
+Id                 : 9236
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:19.5625000
+TotalProcessorTime : 00:00:41.5781250
+
+Name               : msedgewebview2
+Id                 : 11220
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:41.6406250
+TotalProcessorTime : 00:00:51.6093750
+
+Name               : browser
+Id                 : 6880
+PriorityClass      : Idle
+UserProcessorTime  : 00:00:49.4375000
+TotalProcessorTime : 00:00:54.3281250
+
+Name               : node
+Id                 : 304
+PriorityClass      : BelowNormal
+UserProcessorTime  : 00:01:16.4843750
+TotalProcessorTime : 00:01:25.5000000
+
+Name               : figma_agent
+Id                 : 12664
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:51.6250000
+TotalProcessorTime : 00:01:26.2500000
+
+Name               : TextInputHost
+Id                 : 9748
+PriorityClass      : High
+UserProcessorTime  : 00:00:48.9375000
+TotalProcessorTime : 00:01:32.5156250
+
+Name               : SearchHost
+Id                 : 9848
+PriorityClass      : Normal
+UserProcessorTime  : 00:00:42.1875000
+TotalProcessorTime : 00:01:35.1093750
+
+Name               : browser
+Id                 : 14952
+PriorityClass      : Idle
+UserProcessorTime  : 00:01:30.5312500
+TotalProcessorTime : 00:01:49.3593750
+
+Name               : ctfmon
+Id                 : 12192
+PriorityClass      : 
+UserProcessorTime  : 00:00:42.2500000
+TotalProcessorTime : 00:02:11.1406250
+
+Name               : TaskbarX
+Id                 : 10520
+PriorityClass      : Idle
+UserProcessorTime  : 00:01:05.6562500
+TotalProcessorTime : 00:02:52.1406250
+
+Name               : WINWORD
+Id                 : 12456
+PriorityClass      : Normal
+UserProcessorTime  : 00:02:23.6718750
+TotalProcessorTime : 00:03:45.0937500
+
+Name               : browser
+Id                 : 10116
+PriorityClass      : Normal
+UserProcessorTime  : 00:02:11.1093750
+TotalProcessorTime : 00:03:46.0468750
+
+Name               : browser
+Id                 : 5940
+PriorityClass      : Normal
+UserProcessorTime  : 00:03:56.4062500
+TotalProcessorTime : 00:04:21.5156250
+
+Name               : browser
+Id                 : 4548
+PriorityClass      : Idle
+UserProcessorTime  : 00:05:17.9218750
+TotalProcessorTime : 00:06:33.5937500
+
+Name               : browser
+Id                 : 13772
+PriorityClass      : Idle
+UserProcessorTime  : 00:05:52.3281250
+TotalProcessorTime : 00:06:55.3750000
+
+Name               : explorer
+Id                 : 8772
+PriorityClass      : Normal
+UserProcessorTime  : 00:11:20.8906250
+TotalProcessorTime : 00:20:25.6562500
+
+Name               : browser
+Id                 : 11424
+PriorityClass      : AboveNormal
+UserProcessorTime  : 00:29:29.3906250
+TotalProcessorTime : 00:38:39.6718750
+
+Name               : browser
+Id                 : 13576
+PriorityClass      : Normal
+UserProcessorTime  : 00:30:15.1562500
+TotalProcessorTime : 00:49:07.9531250
+
+
+

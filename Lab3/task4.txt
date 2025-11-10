@@ -1,0 +1,36 @@
+﻿
+Name                     Size(MB) CreationTime                   Attributes
+----                     -------- ------------                   ----------
+appcompat                    0,32 01.04.2024 10:26:06 ... NotContentIndexed
+AppReadiness                    0 01.04.2024 10:26:06 ... NotContentIndexed
+Boot                        72,07 01.04.2024 10:26:06             Directory
+Cursors                      11,1 01.04.2024 10:26:06 ... NotContentIndexed
+diagnostics                  4,21 01.04.2024 10:26:06             Directory
+Downloaded Program Files        0 01.04.2024 10:26:06 ... NotContentIndexed
+en-US                           0 01.04.2024 19:29:49 ... NotContentIndexed
+Fonts                      355,99 01.04.2024 10:26:06 ... NotContentIndexed
+InboxApps                    6,29 10.09.2024 9:01:05  ... NotContentIndexed
+L2Schemas                    0,11 01.04.2024 10:26:07 ... NotContentIndexed
+LiveKernelReports               0 01.04.2024 10:26:07 ... NotContentIndexed
+Logs                        37,76 01.04.2024 10:26:07 ... NotContentIndexed
+Microsoft                       0 15.05.2025 23:16:14 ... NotContentIndexed
+Microsoft.NET               790,9 01.04.2024 10:26:06 ... NotContentIndexed
+ModemLogs                       0 01.04.2024 10:26:07 ... NotContentIndexed
+Offline Web Pages               0 01.04.2024 10:26:07 ... NotContentIndexed
+PolicyDefinitions            3,23 01.04.2024 10:26:07 ... NotContentIndexed
+Resources                    2,97 01.04.2024 10:26:07 ... NotContentIndexed
+schemas                      0,12 01.04.2024 10:26:07 ... NotContentIndexed
+ServiceProfiles                 0 13.12.2024 18:16:33 ... NotContentIndexed
+ShellComponents              5,54 01.04.2024 10:26:07 ... NotContentIndexed
+ShellExperiences            14,46 01.04.2024 10:26:07 ... NotContentIndexed
+SystemApps                1072,16 01.04.2024 10:26:07 ... NotContentIndexed
+SystemResources            207,97 01.04.2024 10:26:07             Directory
+Tasks                           0 01.04.2024 10:26:08 ... NotContentIndexed
+UUS                         44,34 01.04.2024 10:26:08             Directory
+Vss                          0,01 01.04.2024 10:26:08 ... NotContentIndexed
+WaaS                         0,13 01.04.2024 10:26:08             Directory
+Windows                     14,75 15.12.2024 11:35:09 ... NotContentIndexed
+WinSxS                   10768,99 01.04.2024 10:21:16             Directory
+WUModels                        0 01.04.2024 10:26:08             Directory
+
+
